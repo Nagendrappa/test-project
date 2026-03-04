@@ -1,0 +1,3 @@
+This is second file
+Working on the git reset soft and git restore commands
+Updating third time to test the soft reset and restore
